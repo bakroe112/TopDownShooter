@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce65611698c27a4893f8826202ef56c, type: 3}
+  m_Name: OldPistol
+  m_EditorClassIdentifier: Assembly-CSharp::Weapon
+  type: 0
+  MpMode: 0
+  weightedRandomScheduling: 1
+  bullet: {fileID: 4322532194016341150, guid: 8f7ff808dc9a2244d9371f4d3dc34261, type: 3}
+  knife: {fileID: 0}
+  weaponImage: {fileID: -4635587171168334959, guid: 99911daf6749ac142b68f9f9f4609e5d, type: 3}
+  weaponAnimator: {fileID: 9100000, guid: 5e73206188bb0eb4fad7aee52b596cda, type: 2}
+  weaponName: Old Pistol
+  weaponDescription: Very very old pistol
+  critChance: 0.3
+  critDamage: 2
+  damage: 3
+  scatteringAngle: 5
+  shootingGap: 0.5
+  shootTimes: 1
+  continuousShootingGap: 0.5
+  bulletCount: 1
+  MpNeed: 0
+  minCritChance: 0
+  minDamage: 0
+  minScatteringAngle: 0
+  fullChargeTime: 0
+  minBulletSpeed: 0
+  maxBulletSpeed: 0
+  knifeDeltaX: 0
+  comboDelta: 0
+  knifeSpeed: 0
+  knifeScale: {x: 0, y: 0, z: 0}

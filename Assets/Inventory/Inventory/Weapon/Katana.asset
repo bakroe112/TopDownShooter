@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ce65611698c27a4893f8826202ef56c, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: Assembly-CSharp::Weapon
+  type: 1
+  MpMode: 0
+  weightedRandomScheduling: 0
+  bullet: {fileID: 0}
+  knife: {fileID: 0}
+  weaponImage: {fileID: 0}
+  weaponAnimator: {fileID: 0}
+  weaponName: 
+  weaponDescription: 
+  critChance: 0
+  critDamage: 0
+  damage: 0
+  scatteringAngle: 0
+  shootingGap: 0
+  shootTimes: 0
+  continuousShootingGap: 0
+  bulletCount: 0
+  MpNeed: 0
+  minCritChance: 0
+  minDamage: 0
+  minScatteringAngle: 0
+  fullChargeTime: 0
+  minBulletSpeed: 0
+  maxBulletSpeed: 0
+  knifeDeltaX: 0
+  comboDelta: 0
+  knifeSpeed: 0
+  knifeScale: {x: 0, y: 0, z: 0}
